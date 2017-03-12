@@ -385,6 +385,9 @@
             },
             ".mbr-section__container .mbr-section-subtitle": {
               "color": "#a0a0a0"
+            },
+            ".mbr-plan-label": {
+              "color": "#b8312f"
             }
           },
           "_tags": [
@@ -411,9 +414,9 @@
             "showSubtitle": true,
             "firstType": "",
             "showButtons": true,
-            "secondType": "bg-primary",
+            "secondType": "",
             "thirdType": "",
-            "fourthType": ""
+            "fourthType": "bg-primary"
           },
           "title": "<i>Наши услуги(БУСТ)</i>",
           "subtitle": "",
@@ -444,7 +447,7 @@
           "description3": "от первого калаша до Master Guardian ELITE(Уточняю-за каждый апнутый ранг-80 руб. )",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Мониторинг в режиме реального времени</li><li class=\"list-group-item\">Полная безопасность и анонимность</li><li class=\"list-group-item\">СКИДКИ</li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"nekomi.html#msg-box5-n\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Купить</a>",
-          "label4": "HOT!",
+          "label4": "ВЫГОДА",
           "title4": "&nbsp;от 100 руб",
           "subtitle4": "",
           "currency4": "",
