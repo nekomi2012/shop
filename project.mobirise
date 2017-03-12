@@ -629,7 +629,7 @@
           },
           "title": "Оплата закакзов",
           "text": "На данный момент в нашем магазине принимается оплата только &nbsp;WebMoney,Но вскором времени будет более 40 видов оплаты.Оплата принимается лишь в том случае если вы все &nbsp;зделали как указано на скриншоте справа.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mini.webmoney.ru/SendWebMoney.aspx\" data-toolbar=\"-mbrBtnMove\">WebMoney</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mini.webmoney.ru/SendWebMoney.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WebMoney</a>"
         },
         {
           "_styles": {
