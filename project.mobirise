@@ -628,8 +628,8 @@
             }
           },
           "title": "Оплата закакзов",
-          "text": "На данный момент в нашем магазине принимается оплата только &nbsp;WebMoney,Но вскором времени будет более 40 видов оплаты.Оплата принимается лишь в том случае если вы все &nbsp;зделали как указано на скриншоте справа.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mini.webmoney.ru/SendWebMoney.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WebMoney</a>"
+          "text": "<i><b>1</b></i>На данный момент в нашем магазине принимается оплата только &nbsp;WebMoney,Но вскором времени будет более 40 видов оплаты.Оплата принимается лишь в том случае если вы все &nbsp;зделали как указано на скриншоте справа<br><b><i>2.После оплаты ,сделать скриншот что вы оплатили и написать мне(кнопка внизу)прикрепляете скрин оплаты и пишите лог и пароль от аккаунта(если там присутсвует стим гуард или семейный контроль,вы должны будете написать код от семейного и от гуарда)</i></b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://vk.com/im?media=&amp;sel=-142412464\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Вконтакте</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mini.webmoney.ru/SendWebMoney.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WebMoney</a>"
         },
         {
           "_styles": {
@@ -655,7 +655,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": "        <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#top\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-vkontakte\"></i></a>  "
+          "icons": "        <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"https://vk.com/boostaksforyou\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-vkontakte\"></i></a>  "
         }
       ]
     }
