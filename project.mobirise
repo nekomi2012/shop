@@ -388,7 +388,7 @@
           "period2": "руб",
           "description2": "От первой звезды-до четвертой(Уточняю-за каждый апнутый ранг-70 руб. )",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Мониторинг в режиме реального времени</li><li class=\"list-group-item\">Полная безопасность и анонимность</li><li class=\"list-group-item\">СКИДКИ</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Купить</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"&lt;form action=&quot;https://merchant.webmoney.ru/lmi/payment.asp&quot; method=&quot;POST&quot;&gt;  &lt;input type=&quot;hidden&quot; name=&quot;LMI_PAYMENT_AMOUNT&quot; value=&quot;10.00&quot;&gt;  &lt;input type=&quot;hidden&quot; name=&quot;LMI_PAYMENT_DESC_BASE64&quot; value=&quot;0YLQtdGB0YLQvtCy0YvQuSDRgtC+0LLQsNGA&quot;&gt;  &lt;input type=&quot;hidden&quot; name=&quot;LMI_PAYEE_PURSE&quot; value=&quot;E589854764008&quot;&gt; &lt;input type=&quot;submit&quot; class=&quot;wmbtn&quot; style=&quot;font-famaly:Verdana, Helvetica, sans-serif!important;padding:0 10px;height:30px;font-size:12px!important;border:1px solid #538ec1!important;background:#a4cef4!important;color:#fff!important;&quot; value=&quot;&amp;#1086;&amp;#1087;&amp;#1083;&amp;#1072;&amp;#1090;&amp;#1080;&amp;#1090;&amp;#1100;10.00 WME &quot;&gt; &lt;/form&gt;\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Купить</a>",
           "label3": "HOT!",
           "title3": "от 80 руб",
           "subtitle3": "",
@@ -397,7 +397,7 @@
           "period3": "руб",
           "description3": "от первого калаша до Master Guardian ELITE(Уточняю-за каждый апнутый ранг-80 руб. )",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Мониторинг в режиме реального времени</li><li class=\"list-group-item\">Полная безопасность и анонимность</li><li class=\"list-group-item\">СКИДКИ</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Купить</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"&lt;form action=&quot;https://merchant.webmoney.ru/lmi/payment.asp&quot; method=&quot;POST&quot;&gt;  &lt;input type=&quot;hidden&quot; name=&quot;LMI_PAYMENT_AMOUNT&quot; value=&quot;10.00&quot;&gt;  &lt;input type=&quot;hidden&quot; name=&quot;LMI_PAYMENT_DESC_BASE64&quot; value=&quot;0YLQtdGB0YLQvtCy0YvQuSDRgtC+0LLQsNGA&quot;&gt;  &lt;input type=&quot;hidden&quot; name=&quot;LMI_PAYEE_PURSE&quot; value=&quot;E589854764008&quot;&gt; &lt;input type=&quot;submit&quot; class=&quot;wmbtn&quot; style=&quot;font-famaly:Verdana, Helvetica, sans-serif!important;padding:0 10px;height:30px;font-size:12px!important;border:1px solid #538ec1!important;background:#a4cef4!important;color:#fff!important;&quot; value=&quot;&amp;#1086;&amp;#1087;&amp;#1083;&amp;#1072;&amp;#1090;&amp;#1080;&amp;#1090;&amp;#1100;10.00 WME &quot;&gt; &lt;/form&gt;\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Купить</a>",
           "label4": "HOT!",
           "title4": "от 100 руб",
           "subtitle4": "",
@@ -406,7 +406,7 @@
           "period4": "руб",
           "description4": "от Биг стара до супприма (Уточняю-за каждый апнутый ранг-100 руб. )",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Мониторинг в режиме реального времени</li><li class=\"list-group-item\">Полная безопасность и анонимность</li><li class=\"list-group-item\">СКИДКИ</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Купить</a>"
+          "button4": "<a data-app-btn=\"true\" href=\"&lt;form action=&quot;https://merchant.webmoney.ru/lmi/payment.asp&quot; method=&quot;POST&quot;&gt;  &lt;input type=&quot;hidden&quot; name=&quot;LMI_PAYMENT_AMOUNT&quot; value=&quot;10.00&quot;&gt;  &lt;input type=&quot;hidden&quot; name=&quot;LMI_PAYMENT_DESC_BASE64&quot; value=&quot;0YLQtdGB0YLQvtCy0YvQuSDRgtC+0LLQsNGA&quot;&gt;  &lt;input type=&quot;hidden&quot; name=&quot;LMI_PAYEE_PURSE&quot; value=&quot;E589854764008&quot;&gt; &lt;input type=&quot;submit&quot; class=&quot;wmbtn&quot; style=&quot;font-famaly:Verdana, Helvetica, sans-serif!important;padding:0 10px;height:30px;font-size:12px!important;border:1px solid #538ec1!important;background:#a4cef4!important;color:#fff!important;&quot; value=&quot;&amp;#1086;&amp;#1087;&amp;#1083;&amp;#1072;&amp;#1090;&amp;#1080;&amp;#1090;&amp;#1100;10.00 WME &quot;&gt; &lt;/form&gt;\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Купить</a> "
         },
         {
           "_styles": {
