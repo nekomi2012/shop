@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 24,
+    "uniqCompNum": 27,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -132,6 +132,52 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"nekomi.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">магазин игр и буст аккаунтов</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nekomi.html#features6-b\">Почему именно мы?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nekomi.html#pricing-table1-c\">Наши услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nekomi.html#features3-d\">Почему нам можно доверять?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nekomi.html#msg-box3-g\">Пользовательское соглашение</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://vk.com/kikosh89\">Связь с Администрацией</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-p",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/lolo-128x95.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<i><b>Address<br>Ukraine/Dnipropetrovsk<br>Pavlograd<br></b></i><br>",
+          "text2": "<i><b>Contacts<br>\nEmail: nekomi@mail.ua<br>\nPhone: +380994585815</b></i><br>",
+          "text3": "",
+          "_styles": {
+            "B": {
+              "color": "#000000"
+            },
+            "STRONG": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_name": "footer1",
@@ -449,8 +495,8 @@
           "_name": "features3",
           "_anchor": "features3-d",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 2,
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -583,6 +629,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            ".btn": {
+              "font-size": "13px"
+            }
+          },
           "_anchor": "msg-box5-n",
           "_params": {
             "imageSize": "60",
@@ -628,7 +679,7 @@
             }
           },
           "title": "Оплата закакзов",
-          "text": "<i><b>1</b></i>На данный момент в нашем магазине принимается оплата только &nbsp;WebMoney,Но вскором времени будет более 40 видов оплаты.Оплата принимается лишь в том случае если вы все &nbsp;зделали как указано на скриншоте справа<br><b><i>2.После оплаты ,сделать скриншот что вы оплатили и написать мне(кнопка внизу)прикрепляете скрин оплаты и пишите лог и пароль от аккаунта(если там присутсвует стим гуард или семейный контроль,вы должны будете написать код от семейного и от гуарда)</i></b>",
+          "text": "<b><i>1На данный момент в нашем магазине принимается оплата только &nbsp;WebMoney,Но вскором времени будет более 40 видов оплаты.Оплата принимается лишь в том случае если вы все &nbsp;зделали как указано на скриншоте справа</i></b><br><b><i>2.После оплаты ,сделать скриншот что вы оплатили и написать мне(кнопка внизу)прикрепляете скрин оплаты и пишите лог и пароль от аккаунта(если там присутсвует стим гуард или семейный контроль,вы должны будете написать код от семейного и от гуарда)</i></b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://vk.com/im?media=&amp;sel=-142412464\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Вконтакте</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mini.webmoney.ru/SendWebMoney.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WebMoney</a>"
         },
         {
