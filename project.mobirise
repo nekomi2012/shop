@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 19,
+    "uniqCompNum": 21,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -131,7 +131,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"nekomi.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">магазин игр и буст аккаунтов</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nekomi.html#features6-b\">Почему именно мы?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nekomi.html#pricing-table1-c\">Наши услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nekomi.html#features3-d\">Почему нам можно доверять?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nekomi.html#msg-box3-g\">Пользовательское соглашение</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://vk.com/kikosh89\">Связь с Администрацией</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nekomi.html#features6-b\">Почему именно мы?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nekomi.html#pricing-table1-c\">Наши услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nekomi.html#features3-d\">Почему нам можно доверять?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nekomi.html#msg-box3-g\">Пользовательское соглашение</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://vk.com/kikosh89\">Связь с Администрацией</a></li>"
         },
         {
           "_name": "footer1",
@@ -182,7 +182,7 @@
           },
           "title": "&nbsp; Добро пожаловать",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Магазин аккаунтов(СКОРО)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"nekomi.html#pricing-table1-c\" data-toolbar=\"-mbrBtnMove\">Буст званий CSGO</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Магазин аккаунтов(СКОРО)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"nekomi.html#pricing-table1-k\" data-toolbar=\"-mbrBtnMove\">Буст званий CSGO</a> "
         },
         {
           "_styles": {
@@ -345,7 +345,7 @@
             "Theme"
           ],
           "_name": "pricing-table1",
-          "_anchor": "pricing-table1-c",
+          "_anchor": "pricing-table1-k",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -365,48 +365,48 @@
             "showSubtitle": true,
             "firstType": "",
             "showButtons": true,
-            "secondType": "",
+            "secondType": "bg-primary",
             "thirdType": "",
             "fourthType": ""
           },
           "title": "Наши услуги(БУСТ)",
           "subtitle": "",
           "label1": "HOT!",
-          "title1": "ОТ30руб",
+          "title1": "От 30руб",
           "subtitle1": "",
           "currency1": "",
-          "price1": "&nbsp;от 30",
+          "price1": "30",
           "period1": "руб",
           "description1": "Возможность калибровки от неотклабированого до последенего слиьвера(Уточняю-за каждый апнутый ранг-30 руб. )",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Мониторинг в режиме реального времени</li><li class=\"list-group-item\">Полная безопасность и анонимность</li><li class=\"list-group-item\">СКИДКИ</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"&lt;form action=&quot;https://merchant.webmoney.ru/lmi/payment.asp&quot; method=&quot;POST&quot;&gt;  &lt;input type=&quot;hidden&quot; name=&quot;LMI_PAYMENT_AMOUNT&quot; value=&quot;10.00&quot;&gt;  &lt;input type=&quot;hidden&quot; name=&quot;LMI_PAYMENT_DESC_BASE64&quot; value=&quot;0YLQtdGB0YLQvtCy0YvQuSDRgtC+0LLQsNGA&quot;&gt;  &lt;input type=&quot;hidden&quot; name=&quot;LMI_PAYEE_PURSE&quot; value=&quot;E589854764008&quot;&gt; &lt;input type=&quot;submit&quot; class=&quot;wmbtn&quot; style=&quot;font-famaly:Verdana, Helvetica, sans-serif!important;padding:0 10px;height:30px;font-size:12px!important;border:1px solid #538ec1!important;background:#a4cef4!important;color:#fff!important;&quot; value=&quot;&amp;#1086;&amp;#1087;&amp;#1083;&amp;#1072;&amp;#1090;&amp;#1080;&amp;#1090;&amp;#1100;10.00 WME &quot;&gt; &lt;/form&gt;\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Купить</a> ",
+          "button1": "<a data-app-btn=\"true\" href=\"&lt;form action=&quot;https://merchant.webmoney.ru/lmi/payment.asp&quot; method=&quot;POST&quot;&gt;  &lt;input type=&quot;hidden&quot; name=&quot;LMI_PAYMENT_AMOUNT&quot; value=&quot;50.00&quot;&gt;  &lt;input type=&quot;hidden&quot; name=&quot;LMI_PAYMENT_DESC_BASE64&quot; value=&quot;0YLQtdGB0YLQvtCy0YvQuSDRgtC+0LLQsNGA&quot;&gt;  &lt;input type=&quot;hidden&quot; name=&quot;LMI_PAYEE_PURSE&quot; value=&quot;R637110930874&quot;&gt; &lt;input type=&quot;submit&quot; class=&quot;wmbtn&quot; style=&quot;font-famaly:Verdana, Helvetica, sans-serif!important;padding:0 10px;height:30px;font-size:12px!important;border:1px solid #538ec1!important;background:#a4cef4!important;color:#fff!important;&quot; value=&quot;&amp;#1086;&amp;#1087;&amp;#1083;&amp;#1072;&amp;#1090;&amp;#1080;&amp;#1090;&amp;#1100;50.00 WMR &quot;&gt; &lt;/form&gt;\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Купить</a>",
           "label2": "HOT!",
           "title2": "от 70 руб",
           "subtitle2": "",
           "currency2": "",
           "price2": "от 70",
-          "period2": "руб",
+          "period2": "&nbsp;руб",
           "description2": "От первой звезды-до четвертой(Уточняю-за каждый апнутый ранг-70 руб. )",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Мониторинг в режиме реального времени</li><li class=\"list-group-item\">Полная безопасность и анонимность</li><li class=\"list-group-item\">СКИДКИ</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"&lt;form action=&quot;https://merchant.webmoney.ru/lmi/payment.asp&quot; method=&quot;POST&quot;&gt;  &lt;input type=&quot;hidden&quot; name=&quot;LMI_PAYMENT_AMOUNT&quot; value=&quot;10.00&quot;&gt;  &lt;input type=&quot;hidden&quot; name=&quot;LMI_PAYMENT_DESC_BASE64&quot; value=&quot;0YLQtdGB0YLQvtCy0YvQuSDRgtC+0LLQsNGA&quot;&gt;  &lt;input type=&quot;hidden&quot; name=&quot;LMI_PAYEE_PURSE&quot; value=&quot;E589854764008&quot;&gt; &lt;input type=&quot;submit&quot; class=&quot;wmbtn&quot; style=&quot;font-famaly:Verdana, Helvetica, sans-serif!important;padding:0 10px;height:30px;font-size:12px!important;border:1px solid #538ec1!important;background:#a4cef4!important;color:#fff!important;&quot; value=&quot;&amp;#1086;&amp;#1087;&amp;#1083;&amp;#1072;&amp;#1090;&amp;#1080;&amp;#1090;&amp;#1100;10.00 WME &quot;&gt; &lt;/form&gt;\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Купить</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Купить</a>",
           "label3": "HOT!",
           "title3": "от 80 руб",
           "subtitle3": "",
           "currency3": "",
-          "price3": "от 80",
+          "price3": "&nbsp;от 80",
           "period3": "руб",
           "description3": "от первого калаша до Master Guardian ELITE(Уточняю-за каждый апнутый ранг-80 руб. )",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Мониторинг в режиме реального времени</li><li class=\"list-group-item\">Полная безопасность и анонимность</li><li class=\"list-group-item\">СКИДКИ</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"&lt;form action=&quot;https://merchant.webmoney.ru/lmi/payment.asp&quot; method=&quot;POST&quot;&gt;  &lt;input type=&quot;hidden&quot; name=&quot;LMI_PAYMENT_AMOUNT&quot; value=&quot;10.00&quot;&gt;  &lt;input type=&quot;hidden&quot; name=&quot;LMI_PAYMENT_DESC_BASE64&quot; value=&quot;0YLQtdGB0YLQvtCy0YvQuSDRgtC+0LLQsNGA&quot;&gt;  &lt;input type=&quot;hidden&quot; name=&quot;LMI_PAYEE_PURSE&quot; value=&quot;E589854764008&quot;&gt; &lt;input type=&quot;submit&quot; class=&quot;wmbtn&quot; style=&quot;font-famaly:Verdana, Helvetica, sans-serif!important;padding:0 10px;height:30px;font-size:12px!important;border:1px solid #538ec1!important;background:#a4cef4!important;color:#fff!important;&quot; value=&quot;&amp;#1086;&amp;#1087;&amp;#1083;&amp;#1072;&amp;#1090;&amp;#1080;&amp;#1090;&amp;#1100;10.00 WME &quot;&gt; &lt;/form&gt;\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Купить</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Купить</a>",
           "label4": "HOT!",
           "title4": "от 100 руб",
           "subtitle4": "",
           "currency4": "",
-          "price4": "от100",
+          "price4": "&nbsp;от100",
           "period4": "руб",
           "description4": "от Биг стара до супприма (Уточняю-за каждый апнутый ранг-100 руб. )",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Мониторинг в режиме реального времени</li><li class=\"list-group-item\">Полная безопасность и анонимность</li><li class=\"list-group-item\">СКИДКИ</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"&lt;form action=&quot;https://merchant.webmoney.ru/lmi/payment.asp&quot; method=&quot;POST&quot;&gt;  &lt;input type=&quot;hidden&quot; name=&quot;LMI_PAYMENT_AMOUNT&quot; value=&quot;10.00&quot;&gt;  &lt;input type=&quot;hidden&quot; name=&quot;LMI_PAYMENT_DESC_BASE64&quot; value=&quot;0YLQtdGB0YLQvtCy0YvQuSDRgtC+0LLQsNGA&quot;&gt;  &lt;input type=&quot;hidden&quot; name=&quot;LMI_PAYEE_PURSE&quot; value=&quot;E589854764008&quot;&gt; &lt;input type=&quot;submit&quot; class=&quot;wmbtn&quot; style=&quot;font-famaly:Verdana, Helvetica, sans-serif!important;padding:0 10px;height:30px;font-size:12px!important;border:1px solid #538ec1!important;background:#a4cef4!important;color:#fff!important;&quot; value=&quot;&amp;#1086;&amp;#1087;&amp;#1083;&amp;#1072;&amp;#1090;&amp;#1080;&amp;#1090;&amp;#1100;10.00 WME &quot;&gt; &lt;/form&gt;\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Купить</a> "
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Купить</a>"
         },
         {
           "_styles": {
