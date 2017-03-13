@@ -1,7 +1,7 @@
 {
   "settings": {
-    "currentPage": "nekomi.html",
-    "name": "nekomishop",
+    "currentPage": "gameshop",
+    "name": "shop",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -29,7 +29,7 @@
     "cookiesAlert": ""
   },
   "pages": {
-    "nekomi.html": {
+    "gameshop": {
       "settings": {
         "main": true,
         "title": "",
