@@ -478,12 +478,6 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
-#contacts1-p B {
-  color: #000000;
-}
-#contacts1-p STRONG {
-  color: #000000;
-}
 #header1-2 .mbr-section-title {
   text-align: center;
 }
@@ -514,4 +508,10 @@ h6,
 #social-buttons2-i .mbr-section-title,
 #social-buttons2-i .btn-social {
   color: #232323;
+}
+#contacts1-p B {
+  color: #000000;
+}
+#contacts1-p STRONG {
+  color: #000000;
 }
