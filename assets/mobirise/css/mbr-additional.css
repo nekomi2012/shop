@@ -494,6 +494,29 @@ h6,
 #pricing-table1-k .mbr-plan-label {
   color: #b8312f;
 }
+#msg-box8-w .mbr-section-title,
+#msg-box8-w p {
+  color: #fff;
+}
+#msg-box8-w .mbr-section-title I {
+  text-align: center;
+}
+#features3-v P {
+  color: #ffffff;
+  text-align: left;
+}
+#features3-v H5 {
+  color: #b8312f;
+}
+#features3-v H4 {
+  color: #f3c649;
+}
+#features3-v .btn {
+  font-size: 15px;
+}
+#features3-v B {
+  text-align: center;
+}
 #msg-box8-f .mbr-section-title,
 #msg-box8-f p {
   color: #fff;

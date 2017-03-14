@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 27,
+    "uniqCompNum": 33,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -182,7 +182,7 @@
           },
           "title": "&nbsp; Добро пожаловать",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Магазин аккаунтов(СКОРО)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"nekomi.html#pricing-table1-k\" data-toolbar=\"-mbrBtnMove\">Буст званий CSGO</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"gameshop#features3-d\" data-toolbar=\"-mbrBtnMove\">Магазин аккаунтов</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"nekomi.html#pricing-table1-k\" data-toolbar=\"-mbrBtnMove\">Буст званий CSGO</a> "
         },
         {
           "_styles": {
@@ -415,6 +415,182 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title I": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-w",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "<i>Магазин&nbsp;</i>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-v",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#303030",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/header-600x280.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "<i>THE CREW</i>",
+          "subtitle1": "<b>Аккаунт Uplay</b>",
+          "caption1": "Покупая данный товар Вы получаете данные от аккаунта Uplay с игрой THe Crew<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>--------------------------<br>Примечание к платежу:THECREW<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"gameshop#msg-box5-n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-80руб</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/thmbnail-fc4-ru-mobile-600x337.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "<i>FAR CRY 4</i>",
+          "subtitle2": "<b>Аккаунт Uplay</b>",
+          "caption2": "Покупая данный товар Вы получаете данные от аккаунта Uplay с игрой Far Cry 4<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>--------------------------<br>Примечание к платежу:FARCRY<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"gameshop#msg-box5-n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-80руб</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/uxue53d-600x340.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "CLANCY'S RAINBOW SIX: SIEGE",
+          "subtitle3": "<b>Аккаунт Uplay</b>",
+          "caption3": "Покупая данный товар Вы получаете данные от аккаунта Uplay с игрой Tom Clancy's Rainbow Six: Siege<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>--------------------------<br>Примечание к платежу:CLANCY'S RAINBOW SIX: SIEGE",
+          "button3": "<a data-app-btn=\"true\" href=\"gameshop#msg-box5-n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-100руб<br></a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/skyrim-600x333.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "SKYRIM",
+          "subtitle4": "<b>Аккаунт Steam</b>",
+          "caption4": "Покупая данный товар Вы получаете данные от аккаунта steam Skyrim<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>---------------------------<br>Примечание к платежу:SKYRIM",
+          "button4": "<a data-app-btn=\"true\" href=\"gameshop#msg-box5-n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-75руб<br></a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/f89754e143ccd8dbb37ea291760e367e-600x280.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "COUNTER-STRIKE COMPLETE",
+          "subtitle5": "<b>Гифт\\ключ</b>",
+          "caption5": "Покупая данный товар Вы получаете ключ\\гифт от игры Counter Strike Complete<br><span style=\"font-size: 1rem; line-height: 1.5;\">Мы предоставляем гарантию на ключ 5 минут</span><br>Если у Вас возникли проблемы с ключом напишите в тех.подержку<br>---------------------------<br>Примечание к платежу COMPLETE<br>",
+          "button5": "<a data-app-btn=\"true\" href=\"gameshop#msg-box5-n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-400руб</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "ARMA III",
+          "subtitle6": "<b>Аккаунт Steam</b>",
+          "caption6": "Покупая данный товар Вы получаете данные от аккаунта steam- Arma3<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>---------------------------<br>Примечание к платежу ARMA<br>",
+          "button6": "<a data-app-btn=\"true\" href=\"gameshop#msg-box5-n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-500руб</a>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            "H5": {
+              "color": "#b8312f"
+            },
+            "H4": {
+              "color": "#f3c649"
+            },
+            ".btn": {
+              "font-size": "15px"
+            },
+            "B": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
             }
           },
           "_tags": [
@@ -636,7 +812,7 @@
             }
           },
           "title": "Оплата закакзов",
-          "text": "<b><i>1На данный момент в нашем магазине принимается оплата только &nbsp;WebMoney,Но вскором времени будет более 40 видов оплаты.Оплата принимается лишь в том случае если вы все &nbsp;зделали как указано на скриншоте справа</i></b><br><b><i>2.После оплаты ,сделать скриншот что вы оплатили и написать мне(кнопка внизу)прикрепляете скрин оплаты и пишите лог и пароль от аккаунта(если там присутсвует стим гуард или семейный контроль,вы должны будете написать код от семейного и от гуарда)</i></b>",
+          "text": "<b><i>1)На данный момент в нашем магазине принимается оплата только &nbsp;WebMoney,Но вскором времени будет более 40 видов оплаты.Оплата принимается лишь в том случае если вы все &nbsp;зделали как указано на скриншоте справа<br>-----------------------------<br>БУСТ<br>-----------------------------<br>2)После оплаты ,сделать скриншот что вы оплатили и написать мне(кнопка внизу)прикрепляете скрин оплаты и пишите лог и пароль от аккаунта(если там присутсвует стим гуард или семейный контроль,вы должны будете написать код от семейного и от гуарда)<br>-----------------------------<br>Аккаунт или ключ<br>-----------------------------<br>3)После оплаты ,сделать скриншот что вы оплатили и написать мне(кнопка внизу)прикрепляете скрин оплаты &nbsp;и &nbsp; через &nbsp;минут &nbsp;5-10 я вам дам данные от аккаунта или ключ от вашей игры</i></b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://vk.com/im?media=&amp;sel=-142412464\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Вконтакте</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mini.webmoney.ru/SendWebMoney.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WebMoney</a>"
         },
         {
