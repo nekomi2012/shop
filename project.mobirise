@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 33,
+    "uniqCompNum": 34,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -131,7 +131,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"nekomi.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">магазин игр и буст аккаунтов</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nekomi.html#features6-b\">Почему именно мы?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nekomi.html#pricing-table1-c\">Наши услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nekomi.html#features3-d\">Почему нам можно доверять?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nekomi.html#msg-box3-g\">Пользовательское соглашение</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://vk.com/kikosh89\">Связь с Администрацией</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Помощь по сайту</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nekomi.html#features6-b\">Почему именно мы?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nekomi.html#pricing-table1-c\">Наши услуги</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nekomi.html#features3-d\">Почему нам можно доверять?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nekomi.html#msg-box3-g\">Пользовательское соглашение</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://vk.com/kikosh89\">Связь с Администрацией</a></li>"
         },
         {
           "_name": "footer1",
@@ -453,6 +453,24 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            "H5": {
+              "color": "#b8312f"
+            },
+            "H4": {
+              "color": "#fac51c"
+            },
+            ".btn": {
+              "font-size": "15px"
+            },
+            "B": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "features3-v",
           "_params": {
             "paddingTop": 2,
@@ -571,23 +589,136 @@
           "title6": "ARMA III",
           "subtitle6": "<b>Аккаунт Steam</b>",
           "caption6": "Покупая данный товар Вы получаете данные от аккаунта steam- Arma3<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>---------------------------<br>Примечание к платежу ARMA<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"gameshop#msg-box5-n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-500руб</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"gameshop#msg-box5-n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-500руб</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-x",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#303030",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/2-600x280.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Watch Dogs II",
+          "subtitle1": "<b>Аккаунт Uplay</b>",
+          "caption1": "Покупая данный товар Вы получаете данные от аккаунта Uplay с игрой Watch Dogs&nbsp;II<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>--------------------------<br>Примечание к платежу:WATCHDOGS<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-450руб</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/division-600x280.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "TOM CLANCY’S THE DIVISION",
+          "subtitle2": "<b>Аккаунт Uplay</b>",
+          "caption2": "Покупая данный товар Вы получаете данные от аккаунта Uplay с игрой TOM CLANCY’S THE DIVISION<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>--------------------------<br>Примечание к платежу:Division<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-250руб</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-3-600x280.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "ВЕДЬМАК 3: ДИКАЯ ОХОТА",
+          "subtitle3": "<b>Аккаунт Origin</b>",
+          "caption3": "Покупая данный товар Вы получаете данные от аккаунта Uplay с игрой ВЕДЬМАК 3: ДИКАЯ ОХОТА<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>--------------------------<br>Примечание к платежу:WITCHER.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-90руб</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/sid-meiers-civilization-v-600x280.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "SID MEIER'S CIVILIZATION V",
+          "subtitle4": "<b>Аккаунт Steam</b>",
+          "caption4": "Покупая данный товар Вы получаете данные от аккаунта Uplay с игрой SID MEIER'S CIVILIZATION V<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>--------------------------<br>Примечание к платежу:CIVILIZATION<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-200руб</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_styles": {
-            "P": {
-              "color": "#ffffff",
-              "text-align": "left"
+            "B": {
+              "color": "#b8312f"
             },
             "H5": {
               "color": "#b8312f"
             },
+            "P": {
+              "color": "#ffffff"
+            },
             "H4": {
-              "color": "#f3c649"
-            },
-            ".btn": {
-              "font-size": "15px"
-            },
-            "B": {
-              "text-align": "center"
+              "color": "#fac51c"
             }
           }
         },

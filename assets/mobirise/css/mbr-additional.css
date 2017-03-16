@@ -509,13 +509,25 @@ h6,
   color: #b8312f;
 }
 #features3-v H4 {
-  color: #f3c649;
+  color: #fac51c;
 }
 #features3-v .btn {
   font-size: 15px;
 }
 #features3-v B {
   text-align: center;
+}
+#features3-x B {
+  color: #b8312f;
+}
+#features3-x H5 {
+  color: #b8312f;
+}
+#features3-x P {
+  color: #ffffff;
+}
+#features3-x H4 {
+  color: #fac51c;
 }
 #msg-box8-f .mbr-section-title,
 #msg-box8-f p {
