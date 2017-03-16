@@ -634,7 +634,7 @@
           "title1": "Watch Dogs II",
           "subtitle1": "<b>Аккаунт Uplay</b>",
           "caption1": "Покупая данный товар Вы получаете данные от аккаунта Uplay с игрой Watch Dogs&nbsp;II<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>--------------------------<br>Примечание к платежу:WATCHDOGS<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-450руб</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"gameshop#msg-box5-n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-450руб</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/division-600x280.jpg",
@@ -650,7 +650,7 @@
           "title2": "TOM CLANCY’S THE DIVISION",
           "subtitle2": "<b>Аккаунт Uplay</b>",
           "caption2": "Покупая данный товар Вы получаете данные от аккаунта Uplay с игрой TOM CLANCY’S THE DIVISION<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>--------------------------<br>Примечание к платежу:Division<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-250руб</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"gameshop#msg-box5-n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-250руб</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/-3-600x280.jpg",
@@ -666,7 +666,7 @@
           "title3": "ВЕДЬМАК 3: ДИКАЯ ОХОТА",
           "subtitle3": "<b>Аккаунт Origin</b>",
           "caption3": "Покупая данный товар Вы получаете данные от аккаунта Uplay с игрой ВЕДЬМАК 3: ДИКАЯ ОХОТА<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>--------------------------<br>Примечание к платежу:WITCHER.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-90руб</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"gameshop#msg-box5-n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-90руб</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/sid-meiers-civilization-v-600x280.jpg",
@@ -682,7 +682,7 @@
           "title4": "SID MEIER'S CIVILIZATION V",
           "subtitle4": "<b>Аккаунт Steam</b>",
           "caption4": "Покупая данный товар Вы получаете данные от аккаунта Uplay с игрой SID MEIER'S CIVILIZATION V<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>--------------------------<br>Примечание к платежу:CIVILIZATION<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-200руб</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"gameshop#msg-box5-n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-200руб</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
