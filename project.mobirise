@@ -22,11 +22,12 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 34,
+    "uniqCompNum": 38,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
-    "cookiesAlert": ""
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "google-analytics": ""
   },
   "pages": {
     "gameshop": {
@@ -596,6 +597,20 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "B": {
+              "color": "#b8312f"
+            },
+            "H5": {
+              "color": "#b8312f"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#fac51c"
+            }
+          },
           "_anchor": "features3-x",
           "_params": {
             "paddingTop": 2,
@@ -706,19 +721,133 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-11",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#303030",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/82fcbc79f6df09621ebc129a89bc540d-600x280.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "MISCREATED",
+          "subtitle1": "<b>Ключ/гифт</b>",
+          "caption1": "<b><i>Покупая данный товар Вы получаете ключ\\гифт от игры MISCREATED<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>--------------------------<br>Примечание к платежу:MISCREATED</i></b><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"gameshop#msg-box5-n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-800руб</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/a882611753a3c33b11b37e16ac8d9b7e-600x280.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "DOOM",
+          "subtitle2": "<b>Ключ/гифт</b>",
+          "caption2": "<b><i>Покупая данный товар Вы получаете данные от аккаунта Uplay с игрой DOOM<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>--------------------------<br>Примечание к платежу:DOOM</i></b><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"gameshop#msg-box5-n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-700руб</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/b6c128291ed65c31893e836e04a5b452-600x280.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "DAYZ",
+          "subtitle3": "<b>Аккаунт Steam</b>",
+          "caption3": "<i><b>Покупая данный товар Вы получаете данные от аккаунта Uplay с игрой&nbsp;DAYZ<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>--------------------------<br>Примечание к платежу:</b></i><b><i>DAYZ</i></b><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"gameshop#msg-box5-n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-500руб</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/430d0deac4410b48030e33352b91a054-600x280.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "GRAND THEFT AUTO V",
+          "subtitle4": "<b>Аккаунт Steam</b>",
+          "caption4": "<b><i>Покупая данный товар Вы получаете данные от аккаунта Uplay с игрой GRAND THEFT AUTO V<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>--------------------------<br>Примечание к платежу:GRAND THEFT AUTO</i></b><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"gameshop#msg-box5-n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-550руб</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_styles": {
-            "B": {
-              "color": "#b8312f"
-            },
-            "H5": {
-              "color": "#b8312f"
-            },
             "P": {
               "color": "#ffffff"
             },
             "H4": {
               "color": "#fac51c"
+            },
+            "H5": {
+              "color": "#b8312f"
             }
           }
         },
