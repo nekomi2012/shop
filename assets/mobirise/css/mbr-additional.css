@@ -494,6 +494,18 @@ h6,
 #pricing-table1-k .mbr-plan-label {
   color: #b8312f;
 }
+#pricing-table1-k .mbr-plan-price-desc {
+  color: #fac51c;
+}
+#pricing-table1-k .mbr-price-figure {
+  color: #b8312f;
+}
+#pricing-table1-k .mbr-price-term B {
+  color: #b8312f;
+}
+#pricing-table1-k UL {
+  color: #b8312f;
+}
 #msg-box8-w .mbr-section-title,
 #msg-box8-w p {
   color: #fff;

@@ -181,9 +181,9 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "&nbsp; Добро пожаловать",
+          "title": "<i>Nekomi shop</i>",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"gameshop#features3-v\" data-toolbar=\"-mbrBtnMove\">Магазин аккаунтов</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"nekomi.html#pricing-table1-k\" data-toolbar=\"-mbrBtnMove\">Буст званий CSGO</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"gameshop#features3-v\" data-toolbar=\"-mbrBtnMove\">Магазин аккаунтов</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"gameshop#pricing-table1-k\" data-toolbar=\"-mbrBtnMove\">Буст званий CSGO</a>  "
         },
         {
           "_styles": {
@@ -343,6 +343,18 @@
             },
             ".mbr-plan-label": {
               "color": "#b8312f"
+            },
+            ".mbr-plan-price-desc": {
+              "color": "#fac51c"
+            },
+            ".mbr-price-figure": {
+              "color": "#b8312f"
+            },
+            ".mbr-price-term B": {
+              "color": "#b8312f"
+            },
+            "UL": {
+              "color": "#b8312f"
             }
           },
           "_tags": [
@@ -373,44 +385,44 @@
             "thirdType": "",
             "fourthType": "bg-primary"
           },
-          "title": "<i>Наши услуги(БУСТ)</i>",
+          "title": "<i>Наши услуги(Bust)</i>",
           "subtitle": "",
           "label1": "HOT!",
-          "title1": "от 30 руб",
+          "title1": "<i>от 70 руб</i>",
           "subtitle1": "",
           "currency1": "",
-          "price1": "30",
-          "period1": "руб",
-          "description1": "калибровка от неотклабированого до 6 слиьвера(Уточняю-за каждый апнутый ранг-30 руб )",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Мониторинг в режиме реального времени</li><li class=\"list-group-item\">Полная безопасность и анонимность</li><li class=\"list-group-item\">СКИДКИ</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"nekomi.html#msg-box5-n\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Купить</a>",
+          "price1": "<i><b>70</b></i>",
+          "period1": "<i><b>руб</b></i>",
+          "description1": "<b>калибровка от &nbsp;до 6 слиьвера(Уточняю-за каждый апнутый ранг-70 руб )</b>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b><i>Мониторинг в режиме реального времени</i></b></li><li class=\"list-group-item\"><b><i>Полная безопасность и анонимность</i></b></li><li class=\"list-group-item\"><i><b>СКИДКИ</b></i></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"nekomi.html#msg-box5-n\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>Купить</a>",
           "label2": "HOT!",
-          "title2": "от 70 руб",
+          "title2": "<i>от 90 руб</i>",
           "subtitle2": "",
           "currency2": "",
-          "price2": "70",
-          "period2": "руб",
-          "description2": "От первой звезды-до четвертой(Уточняю-за каждый апнутый ранг-70 руб. )",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Мониторинг в режиме реального времени</li><li class=\"list-group-item\">Полная безопасность и анонимность</li><li class=\"list-group-item\">СКИДКИ</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"nekomi.html#msg-box5-n\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Купить</a>",
+          "price2": "90",
+          "period2": "<i><b>руб</b></i>",
+          "description2": "<b>От первой звезды-до четвертой(Уточняю-за каждый апнутый ранг-90 руб. )</b>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b><i>Мониторинг в режиме реального времени</i></b></li><li class=\"list-group-item\"><b><i>Полная безопасность и анонимность</i></b></li><li class=\"list-group-item\"><i><b>СКИДКИ</b></i></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"nekomi.html#msg-box5-n\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>Купить</a>",
           "label3": "HOT!",
-          "title3": "&nbsp;от 80 руб",
+          "title3": "<i>&nbsp;от 150 руб</i>",
           "subtitle3": "",
           "currency3": "",
-          "price3": "80",
-          "period3": "руб",
-          "description3": "от первого калаша до Master Guardian ELITE(Уточняю-за каждый апнутый ранг-80 руб. )",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Мониторинг в режиме реального времени</li><li class=\"list-group-item\">Полная безопасность и анонимность</li><li class=\"list-group-item\">СКИДКИ</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"nekomi.html#msg-box5-n\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Купить</a>",
+          "price3": "150",
+          "period3": "<i><b>руб</b></i>",
+          "description3": "<b>от первого калаша до Master Guardian ELITE(Уточняю-за каждый апнутый ранг-150 руб. )</b>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b><i>Мониторинг в режиме реального времени</i></b></li><li class=\"list-group-item\"><b><i>Полная безопасность и анонимность</i></b></li><li class=\"list-group-item\"><i><b>СКИДКИ</b></i></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"nekomi.html#msg-box5-n\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>Купить</a>",
           "label4": "ВЫГОДА",
-          "title4": "&nbsp;от 100 руб",
+          "title4": "<i>&nbsp;от 300 руб</i>",
           "subtitle4": "",
           "currency4": "",
-          "price4": "100",
-          "period4": "руб",
-          "description4": "от Биг стара до суприма (Уточняю-за каждый апнутый ранг-100 руб. )",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Мониторинг в режиме реального времени</li><li class=\"list-group-item\">Полная безопасность и анонимность</li><li class=\"list-group-item\">СКИДКИ</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"nekomi.html#msg-box5-n\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Купить</a> "
+          "price4": "300",
+          "period4": "<i><b>руб</b></i>",
+          "description4": "<b>от Биг стара до суприма (Уточняю-за каждый апнутый ранг-300 руб. )</b>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b><i>Мониторинг в режиме реального времени</i></b></li><li class=\"list-group-item\"><b><i>Полная безопасность и анонимность</i></b></li><li class=\"list-group-item\"><i><b>СКИДКИ</b></i></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"nekomi.html#msg-box5-n\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>Купить</a> "
         },
         {
           "_styles": {
@@ -509,7 +521,7 @@
           },
           "title1": "<i>THE CREW</i>",
           "subtitle1": "<b>Аккаунт Uplay</b>",
-          "caption1": "Покупая данный товар Вы получаете данные от аккаунта Uplay с игрой THe Crew<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>--------------------------<br>Примечание к платежу:THECREW<br>",
+          "caption1": "<i><b>Покупая данный товар Вы получаете данные от аккаунта Uplay с игрой THe Crew<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>--------------------------<br>Примечание к платежу:THECREW</b></i><br>",
           "button1": "<a data-app-btn=\"true\" href=\"gameshop#msg-box5-n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-80руб</a>",
           "media2": {
             "image": {
@@ -525,7 +537,7 @@
           },
           "title2": "<i>FAR CRY 4</i>",
           "subtitle2": "<b>Аккаунт Uplay</b>",
-          "caption2": "Покупая данный товар Вы получаете данные от аккаунта Uplay с игрой Far Cry 4<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>--------------------------<br>Примечание к платежу:FARCRY<br>",
+          "caption2": "<b><i>Покупая данный товар Вы получаете данные от аккаунта Uplay с игрой Far Cry 4<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>--------------------------<br>Примечание к платежу:FARCRY</i></b><br>",
           "button2": "<a data-app-btn=\"true\" href=\"gameshop#msg-box5-n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-80руб</a>",
           "media3": {
             "image": {
@@ -541,7 +553,7 @@
           },
           "title3": "CLANCY'S RAINBOW SIX: SIEGE",
           "subtitle3": "<b>Аккаунт Uplay</b>",
-          "caption3": "Покупая данный товар Вы получаете данные от аккаунта Uplay с игрой Tom Clancy's Rainbow Six: Siege<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>--------------------------<br>Примечание к платежу:CLANCY'S RAINBOW SIX: SIEGE",
+          "caption3": "<b>Покупая данный товар Вы получаете данные от аккаунта Uplay с игрой Tom Clancy's Rainbow Six: Siege<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку</b><br>--------------------------<br>Примечание к платежу:CLANCY'S RAINBOW SIX: SIEGE",
           "button3": "<a data-app-btn=\"true\" href=\"gameshop#msg-box5-n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-100руб<br></a>",
           "media4": {
             "image": {
@@ -557,7 +569,7 @@
           },
           "title4": "SKYRIM",
           "subtitle4": "<b>Аккаунт Steam</b>",
-          "caption4": "Покупая данный товар Вы получаете данные от аккаунта steam Skyrim<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>---------------------------<br>Примечание к платежу:SKYRIM",
+          "caption4": "<i><b>Покупая данный товар Вы получаете данные от аккаунта steam Skyrim<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>---------------------------<br>Примечание к платежу:SKYRIM</b></i>",
           "button4": "<a data-app-btn=\"true\" href=\"gameshop#msg-box5-n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-75руб<br></a>",
           "media5": {
             "image": {
@@ -573,7 +585,7 @@
           },
           "title5": "COUNTER-STRIKE COMPLETE",
           "subtitle5": "<b>Гифт\\ключ</b>",
-          "caption5": "Покупая данный товар Вы получаете ключ\\гифт от игры Counter Strike Complete<br><span style=\"font-size: 1rem; line-height: 1.5;\">Мы предоставляем гарантию на ключ 5 минут</span><br>Если у Вас возникли проблемы с ключом напишите в тех.подержку<br>---------------------------<br>Примечание к платежу COMPLETE<br>",
+          "caption5": "<b><i>Покупая данный товар Вы получаете ключ\\гифт от игры Counter Strike Complete<br><span style=\"font-size: 1rem; line-height: 1.5;\">Мы предоставляем гарантию на ключ 5 минут</span><br>Если у Вас возникли проблемы с ключом напишите в тех.подержку<br>---------------------------<br>Примечание к платежу COMPLETE</i></b><br>",
           "button5": "<a data-app-btn=\"true\" href=\"gameshop#msg-box5-n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-400руб</a>",
           "media6": {
             "image": {
@@ -589,7 +601,7 @@
           },
           "title6": "ARMA III",
           "subtitle6": "<b>Аккаунт Steam</b>",
-          "caption6": "Покупая данный товар Вы получаете данные от аккаунта steam- Arma3<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>---------------------------<br>Примечание к платежу ARMA<br>",
+          "caption6": "<b><i>Покупая данный товар Вы получаете данные от аккаунта steam- Arma3<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>---------------------------<br>Примечание к платежу ARMA</i></b><br>",
           "button6": "<a data-app-btn=\"true\" href=\"gameshop#msg-box5-n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-500руб</a>"
         },
         {
@@ -647,7 +659,7 @@
             }
           },
           "title1": "Watch Dogs II",
-          "subtitle1": "<b>Аккаунт Uplay</b>",
+          "subtitle1": "Аккаунт Uplay",
           "caption1": "Покупая данный товар Вы получаете данные от аккаунта Uplay с игрой Watch Dogs&nbsp;II<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>--------------------------<br>Примечание к платежу:WATCHDOGS<br>",
           "button1": "<a data-app-btn=\"true\" href=\"gameshop#msg-box5-n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-450руб</a>",
           "media2": {
@@ -680,7 +692,7 @@
           },
           "title3": "ВЕДЬМАК 3: ДИКАЯ ОХОТА",
           "subtitle3": "<b>Аккаунт Origin</b>",
-          "caption3": "Покупая данный товар Вы получаете данные от аккаунта Uplay с игрой ВЕДЬМАК 3: ДИКАЯ ОХОТА<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>--------------------------<br>Примечание к платежу:WITCHER.",
+          "caption3": "<i>Покупая данный товар Вы получаете данные от аккаунта Uplay с игрой ВЕДЬМАК 3: ДИКАЯ ОХОТА<br>На аккаунте могут присутствовать множество других игр<br>Мы предоставляем гарантию на аккаунты 20 минут<br>Если у Вас возникли проблемы с аккаунтом напишите в тех.подержку<br>--------------------------<br>Примечание к платежу:WITCHER.</i>",
           "button3": "<a data-app-btn=\"true\" href=\"gameshop#msg-box5-n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Купить-90руб</a>",
           "media4": {
             "image": {
@@ -728,6 +740,17 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#fac51c"
+            },
+            "H5": {
+              "color": "#b8312f"
+            }
+          },
           "_anchor": "features3-11",
           "_params": {
             "paddingTop": 2,
@@ -838,18 +861,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            },
-            "H4": {
-              "color": "#fac51c"
-            },
-            "H5": {
-              "color": "#b8312f"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
